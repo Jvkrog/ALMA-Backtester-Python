@@ -1,0 +1,24 @@
+# Indian stocks (NSE)
+SYMBOL = "TCS.NS"
+SYMBOL = "HDFCBANK.NS"
+SYMBOL = "INFY.NS"
+
+# Indian indices
+SYMBOL = "^NSEI"      # Nifty 50
+SYMBOL = "^NSEBANK"   # Bank Nifty
+
+# US stocks
+SYMBOL = "AAPL"
+SYMBOL = "NVDA"
+
+# Crypto
+SYMBOL = "BTC-USD"
+SYMBOL = "ETH-USD"
+
+# Commodities
+SYMBOL = "GC=F"   # Gold
+SYMBOL = "CL=F"   # Crude Oil
+
+# Forex
+SYMBOL = "EURUSD=X"
+SYMBOL = "USDINR=X"
